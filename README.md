@@ -12,6 +12,6 @@ chmod +x inject_versedna.sh
 ```
 
 ## Source
-/data/data/com.termux/files/home/inject_versedna.sh
+/data/data/com.termux/files/home/constellation25-mono/sovereign-gtp/src/AiKre8tive-Stargate/inject_versedna.sh
 
 Built by Constellation 25 — FacePrintPay / Cygel White
